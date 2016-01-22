@@ -31,5 +31,17 @@ A full fledged Linux computer board. From IoT perspective, the main benefits of 
 
 ### Motion sensors
 * [Passive infrared - PIR sensor] (http://www.aliexpress.com/item/Raspberry-pi-HCSR501-HC-SR501-Mini-PIR-Human-Body-Infrared-Motion-Sensor-Module-for-Arduino-Pyroelectric/32450415688.html?spm=2114.01010208.3.1.yz0T0N&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=7f707f90-831a-4260-938a-4d042eac2642) - this is known to give false positive signals, but is still useful for educational purposes due to its price
-* [Mini PIR sensor] (http://www.aliexpress.com/item/Mini-IR-Pyroelectric-Infrared-PIR-Motion-Human-Sensor-Detector-Module-Top-Sale/32578770156.html?spm=2114.01010208.3.33.INEe39&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=c08e1ed7-7a7d-4974-82c3-c3f5829cf755)
- 
+* [Mini PIR sensor] (http://www.aliexpress.com/item/Mini-IR-Pyroelectric-Infrared-PIR-Motion-Human-Sensor-Detector-Module-Top-Sale/32578770156.html?spm=2114.01010208.3.33.INEe39&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=c08e1ed7-7a7d-4974-82c3-c3f5829cf755) - not tested
+
+For reliable motion sensing it is recommended to use proven industry grade PIR sensors that are usisally used in commercial alarm systems (e.g. DSC, Paradox ...). The problem with these however is that they require a 12V power supply (e.g. a voltage boost cirquit may be needed.)
+
+### Ultrasonic / Sonar
+Used to measure the distance to an object (usually used in robots)
+[HC-SR04] (http://www.aliexpress.com/item/New-Ultrasonic-Module-HC-SR04-Distance-Transducer-Sensor-For-Arduino-Robot/32567739467.html?spm=2114.01010208.3.1.hbVtGW&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=dc8e6491-01c4-47cf-a359-ffd8fa778010)
+### Buttons
+* [Breadboard / PCB buttons] (http://www.aliexpress.com/item/B76-100pcs-Tactile-Push-Button-Switch-Momentary-Tact-6x6x5mm-DIP-Through-Hole-4pin/32324057354.html?spm=2114.10010108.100010.7.Ilokxp)
+* [Colored buttons] (http://www.aliexpress.com/item/20PCS-Tactile-Push-Button-Switch-Momentary-12-12-7-3MM-Micro-switch-button-20PCS-10pcs/32321453548.html?spm=2114.01010208.3.20.HebsJq&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=e8c48596-47d5-43c0-b09b-f3d668d90c72)
+### Light sensors
+* [Visible light sensor](http://www.aliexpress.com/item/Free-shipping-3-3-5V-Input-Light-Light-Sensor-Sensor-Photodiode-Module-for-Arduino-Raspberry-pi/32471300405.html?spm=2114.01010208.3.1.xrJ3Df&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=05452676-6e20-4acb-a9dd-73aa9b4176c8)
+* [UV light sensor] (http://www.aliexpress.com/item/SI1145-UV-IR-Visible-Sensor-I2C-Light-Breakout-Board-GY1145/32525305707.html?spm=2114.01010208.3.1.lq6OxJ&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=4ac9fcc1-75a9-4f56-b229-8ade2e28306a)
+* 
