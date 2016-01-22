@@ -11,3 +11,6 @@ A very popular board due to its price and built-in wifi. It can be programmed wi
 
 ### Arduino
 Very popular board with a lot of accessories (shields). This is the preferred choice if you want to work with some accesories (e.g. the ZumoRobot). More info on the [official website] (https://www.arduino.cc/)
+
+### Raspberry PI
+A full fledged Linux computer board. From IoT perspective, the main benefits of the board are that more complex Linux software, such as computer vision, can be used directly. Another advantage are the USB ports and the existing device drivers as well as higher level libraries, such as libnfc. There are different versions of Raspberry PI with varying capabilities. See [the shop] (https://www.raspberrypi.org/products/).
