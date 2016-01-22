@@ -86,3 +86,10 @@ Used to measure the distance to an object (usually used in robots)
  * LiPo Battery type 18650 shall be the the most cost effective. There is a battery holder sold separately.
  * Power adapter for raspberry PI shall be powerful enough to yield 2A current. Otherwise the board might work unreliably
  * [LiPo charging/boost module TP4056](http://www.aliexpress.com/item/1Pc-High-Quality-5V-18650-Lithium-Battery-Charging-Board-Micro-USB-1A-Charger-Module-Drop-Shipping/32290456683.html)
+
+## Tools
+* Multimeter
+* Pliers
+* Tweezers
+* Screw driver set
+* Soldering iron
