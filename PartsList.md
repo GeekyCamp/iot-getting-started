@@ -35,13 +35,20 @@ A full fledged Linux computer board. From IoT perspective, the main benefits of 
 
 For reliable motion sensing it is recommended to use proven industry grade PIR sensors that are usisally used in commercial alarm systems (e.g. DSC, Paradox ...). The problem with these however is that they require a 12V power supply (e.g. a voltage boost cirquit may be needed.)
 
-### Ultrasonic / Sonar
+### Proximity
 Used to measure the distance to an object (usually used in robots)
-[HC-SR04] (http://www.aliexpress.com/item/New-Ultrasonic-Module-HC-SR04-Distance-Transducer-Sensor-For-Arduino-Robot/32567739467.html?spm=2114.01010208.3.1.hbVtGW&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=dc8e6491-01c4-47cf-a359-ffd8fa778010)
+* [HC-SR04] (http://www.aliexpress.com/item/New-Ultrasonic-Module-HC-SR04-Distance-Transducer-Sensor-For-Arduino-Robot/32567739467.html?spm=2114.01010208.3.1.hbVtGW&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=dc8e6491-01c4-47cf-a359-ffd8fa778010)
+* [Infrared proximity] (http://www.aliexpress.com/item/Obstacles-Avoidance-3-80CM-Detection-Range-Adjustable-Infrared-Proximity-Switch-Photoelectric-Sensor/32471314492.html?spm=2114.01010208.3.1.BjYbA1&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=54b345f8-7076-4a3c-a85b-f38fc7d84805)
+
 ### Buttons
 * [Breadboard / PCB buttons] (http://www.aliexpress.com/item/B76-100pcs-Tactile-Push-Button-Switch-Momentary-Tact-6x6x5mm-DIP-Through-Hole-4pin/32324057354.html?spm=2114.10010108.100010.7.Ilokxp)
 * [Colored buttons] (http://www.aliexpress.com/item/20PCS-Tactile-Push-Button-Switch-Momentary-12-12-7-3MM-Micro-switch-button-20PCS-10pcs/32321453548.html?spm=2114.01010208.3.20.HebsJq&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=e8c48596-47d5-43c0-b09b-f3d668d90c72)
+
 ### Light sensors
 * [Visible light sensor](http://www.aliexpress.com/item/Free-shipping-3-3-5V-Input-Light-Light-Sensor-Sensor-Photodiode-Module-for-Arduino-Raspberry-pi/32471300405.html?spm=2114.01010208.3.1.xrJ3Df&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=05452676-6e20-4acb-a9dd-73aa9b4176c8)
 * [UV light sensor] (http://www.aliexpress.com/item/SI1145-UV-IR-Visible-Sensor-I2C-Light-Breakout-Board-GY1145/32525305707.html?spm=2114.01010208.3.1.lq6OxJ&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=4ac9fcc1-75a9-4f56-b229-8ade2e28306a)
-* 
+
+### Magnetic sensors
+* [Hall effect sensor A3144] (http://www.aliexpress.com/item/10PCS-New-Original-A3144-A3144E-OH3144E-Hall-Effect-Sensor/32473964807.html?spm=2114.01010208.3.18.0qq8Ix&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=89f7420b-d5b4-49a0-98bb-984fccb1fa79) 
+* [Reed switch (magnetic contact)] (http://www.aliexpress.com/item/1PC-Wired-Door-Window-Sensor-Magnetic-Switch-Home-Alarm-System-Detector/32455047921.html?spm=2114.01010208.3.1.K7Ww8S&ws_ab_test=searchweb201556_9,searchweb201644_5_10001_10002_10005_301_10006_10003_10004_62,searchweb201560_1,searchweb1451318400_6148,searchweb1451318411_6451&btsid=3b46abd7-ef27-4ea8-bfc3-70bf8af27c39) could also be obtained from a local supplier of home alarm systems parts
+
